@@ -82,8 +82,15 @@ li{
     border-radius: 50%;
 }
 
-#email{
+.contact {
     color: var(--mainTextColor);
+    line-height: 1;
+    margin: 10px 0;
+}
+.contact a {
+    text-decoration: none;
+    color: #ffffff;
+    line-height: 1;
 }
 
 #socials--list{
